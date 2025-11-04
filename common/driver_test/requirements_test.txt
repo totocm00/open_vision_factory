@@ -1,0 +1,4 @@
+tensorflow[and-cuda]
+torch
+openvino
+onnxruntime-gpu

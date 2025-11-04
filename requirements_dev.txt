@@ -1,0 +1,9 @@
+# TensorFlow 학습 환경 (dev)
+
+tensorflow==2.20.0
+numpy==1.26.4
+pandas
+matplotlib
+opencv-python
+jupyter
+h5py

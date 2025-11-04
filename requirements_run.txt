@@ -1,0 +1,16 @@
+# PyTorch/YOLO 환경 (run)
+# CUDA 12.4 wheel 사용
+--extra-index-url https://download.pytorch.org/whl/cu124
+Pillow
+
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+
+ultralytics
+easyocr
+streamlit
+opencv-python
+numpy
+pandas
+matplotlib
