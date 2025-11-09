@@ -33,8 +33,53 @@ open_vision_factory/
 
 
 <br>
-<br>
 
+
+
+## ⚡ Speed Tip (권장 설치 순서)
+
+새 PC나 서버에서 바로 실행하려면 **항상!!! 가상환경(virtualenv)을 먼저 만들고**  
+그 안에서 `pip install -r ...` 명령을 실행하세요.  
+이렇게 하면 시스템 파이썬과 충돌하지 않아 더 안전하고 깔끔하게 설치됩니다 🚀
+
+```bash
+# 1️⃣ 파이썬 버전 확인
+python --version          # 또는 python3 --version
+
+
+# 2️⃣ 프로젝트 폴더로 이동
+cd open_vision_factory
+
+
+# 3️⃣ 가상환경 만들기 
+# (Windows)
+python -m venv .venv
+.\.venv\Scripts\activate
+
+# (Ubuntu / macOS)
+python3 -m venv .venv
+source .venv/bin/activate
+
+
+# 4️⃣ pip 업그레이드 및 의존성 설치
+pip install --upgrade pip
+
+
+# 개발/학습용 환경
+pip install -r requirements_dev.txt
+
+
+# 실행/런타임 환경
+pip install -r requirements_run.txt
+
+
+# 가상환경이 활성화되면 프롬프트에 (venv) 표시가 보입니다.
+# 작업이 끝나면 다음 명령으로 종료할 수 있습니다.
+deactivate
+```
+
+
+<br>
 
 ## # Environment Setup
 
