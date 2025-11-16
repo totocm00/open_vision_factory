@@ -1,2 +1,99 @@
-dev_workspace/
-run_workspace/
+# --------------------------
+# Python 기본
+# --------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pyinstaller / build
+build/
+dist/
+*.spec
+
+# --------------------------
+# 운영체제별 파일
+# --------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# vscode
+.vscode/
+
+# --------------------------
+# 프로젝트 전용 (OVF + utils/camera)
+# --------------------------
+
+# utils/camera 자동 생성 이미지
+utils/camera/images/
+utils/camera/images/*
+
+# label_text_recognition 또는 기타 vision 프로젝트 output
+outputs/
+results/
+logs/
+runs/
+temp/
+tmp/
+
+# 모델 체크포인트
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# PaddleOCR, EasyOCR 등 다운로드 파일
+__pycache__/
+paddleocr/
+*.pdparams
+*.pdopt
+
+# yolov5 / ultralytics 기본 output 폴더
+runs/
+
+# OpenCV 출력
+capture_*.jpg
+
+# --------------------------
+# 데이터 파일
+# --------------------------
+*.zip
+*.7z
+*.tar
+*.gz
+*.rar
+
+# 큰 데이터셋 경로
+datasets/
+data/
+
+# --------------------------
+# 특정 제외하고 싶은 민감/로컬 파일
+# --------------------------
+secrets/
+config/local/
+*.env
+.env.local
+.env.*
+
+# ignore private multimedia except the main README gif
+assets/modules/private/private_house/audio/
+assets/modules/private/private_house/video/
+
+# 예외 처리 - README에서 사용하는 ovf.gif는 추적
+!assets/modules/private/private_house/video/ovf.gif
