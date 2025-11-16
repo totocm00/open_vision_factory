@@ -1,15 +1,17 @@
 
 # Open Vision Factory  
-모듈형 비전 AI 프레임워크 – OCR / Detection / Camera / Simulation / Export / GPU Tools
+모듈형 비전 AI 프레임워크
 
 <br>
 
 ## 🎬 Intro Video  
 
-
 <video src="assets/modules/private/private_house/video/ovf-main-video.mp4"
-       autoplay loop muted playsinline
-       width="100%">
+       autoplay
+       loop
+       muted
+       playsinline
+       style="max-width: 100%; border-radius: 8px;">
 </video>
 
 <br>
@@ -24,7 +26,7 @@
   <tr>
     <td>🇰🇷 Korean</td>
     <td>
-      <a href="assets/docs/audio/ovf_ko.mp3">
+      <a href="assets/modules//private/private_house/audio/ko-audio.flac">
         <button style="
           background: linear-gradient(90deg, #d4af37, #f7e28b);
           border: none;
@@ -41,7 +43,7 @@
   <tr>
     <td>🇯🇵 Japanese</td>
     <td>
-      <a href="assets/docs/audio/ovf_jp.mp3">
+      <a href="assets/modules//private/private_house/audio/jp-audio.flac">
         <button style="
           background: linear-gradient(90deg, #d4af37, #f7e28b);
           border: none;
@@ -58,7 +60,7 @@
   <tr>
     <td>🇺🇸 English</td>
     <td>
-      <a href="assets/docs/audio/ovf_en.mp3">
+      <a href="assets/modules//private/private_house/audio/en-audio.flac">
         <button style="
           background: linear-gradient(90deg, #d4af37, #f7e28b);
           border: none;
@@ -526,5 +528,6 @@ open_vision_factory/
 <br>
 <br>
 
-# License  
+# 📜License  
 MIT License
+© 2025 Open Vision Factory
