@@ -1,0 +1,1 @@
+# ovf.core + ovf.modules 조합 (추가 확장용)
