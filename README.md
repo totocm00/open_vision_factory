@@ -1,10 +1,10 @@
 
 # Open Vision Factory  
-모듈형 비전 AI 프레임워크
+### 모듈형 비전 AI 프레임워크
 
 <br>
 
-## 🎬 Intro Video  
+## 🎬 OVF  
 
 ![OVF Intro](assets/modules/private/private_house/video/ovf.gif)
 
@@ -18,7 +18,7 @@
 
 <br>
 
-## 🔊 Audio Guide (YouTube)
+## 🔊 Opening Lines / 오프닝 멘트 (YouTube)
 
 <table>
   <tr>
@@ -78,6 +78,17 @@
   </tr>
 </table>
 
+>새 창에서 열어야 함께 보기 좋습니다.  
+새 창에서 열려면 Ctrl + 클릭  
+(또는 마우스 휠 클릭)을 사용하세요.  
+
+>It is better to view this in a new tab.  
+To open in a new tab,  
+use Ctrl + Click (or Middle Click). 
+
+>新しいタブで開くと見やすくなります。  
+新しいタブで開くには、Ctrl + クリック  
+（またはホイールクリック）を使用してください。  
 
 <br>
 <br>
