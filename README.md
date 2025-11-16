@@ -28,7 +28,7 @@
   <tr>
     <td>🇰🇷 Korean</td>
     <td> 
-      <a href="https://youtu.be/Gd2_DaV3IKs">
+      <a href="https://youtu.be/Gd2_DaV3IKs" target="_blank">
         <button style="
           background: linear-gradient(90deg, #d4af37, #f7e28b);
           border: none;
@@ -45,7 +45,7 @@
   <tr>
     <td>🇯🇵 Japanese</td>
     <td>
-      <a href="https://youtu.be/grLnznL6yyQ">
+      <a href="https://youtu.be/grLnznL6yyQ" target="_blank">
         <button style="
           background: linear-gradient(90deg, #d4af37, #f7e28b);
           border: none;
@@ -62,7 +62,7 @@
   <tr>
     <td>🇺🇸 English</td>
     <td>
-      <a href="https://youtu.be/A3SVp2SZ4Ec">
+      <a href="https://youtu.be/A3SVp2SZ4Ec" target="_blank">
         <button style="
           background: linear-gradient(90deg, #d4af37, #f7e28b);
           border: none;
