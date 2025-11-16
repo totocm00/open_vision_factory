@@ -6,6 +6,8 @@
 
 ## 🎬 Intro Video  
 
+![OVF Intro](assets/modules/private/private_house/video/ovf.gif)
+
 <video src="assets/modules/private/private_house/video/ovf-main-video.mp4"
        autoplay
        loop
@@ -16,7 +18,7 @@
 
 <br>
 
-## 🔊 Audio Guide
+## 🔊 Audio Guide (YouTube)
 
 <table>
   <tr>
@@ -25,8 +27,8 @@
   </tr>
   <tr>
     <td>🇰🇷 Korean</td>
-    <td>
-      <a href="assets/modules//private/private_house/audio/ko-audio.flac">
+    <td> 
+      <a href="https://youtu.be/Gd2_DaV3IKs">
         <button style="
           background: linear-gradient(90deg, #d4af37, #f7e28b);
           border: none;
@@ -43,7 +45,7 @@
   <tr>
     <td>🇯🇵 Japanese</td>
     <td>
-      <a href="assets/modules//private/private_house/audio/jp-audio.flac">
+      <a href="https://youtu.be/grLnznL6yyQ">
         <button style="
           background: linear-gradient(90deg, #d4af37, #f7e28b);
           border: none;
@@ -60,7 +62,7 @@
   <tr>
     <td>🇺🇸 English</td>
     <td>
-      <a href="assets/modules//private/private_house/audio/en-audio.flac">
+      <a href="https://youtu.be/A3SVp2SZ4Ec">
         <button style="
           background: linear-gradient(90deg, #d4af37, #f7e28b);
           border: none;
