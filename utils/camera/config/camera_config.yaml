@@ -1,0 +1,26 @@
+camera:
+  # 카메라 자동 탐색 여부
+  auto: true
+
+  # auto가 false일 때 사용할 고정 카메라 인덱스
+  fixed_index: 0
+
+  # 카메라 탐색 시작/끝 인덱스 (포함)
+  search_min_index: 0
+  search_max_index: 10
+
+  # 프리뷰용 프레임 사이즈
+  frame_width: 1280
+  frame_height: 720
+
+  # 단축키 설정
+  keys:
+    capture: "space"   # 스페이스바로 촬영
+    quit: "q"          # q로 종료
+
+  save:
+    # 가장 상위 저장 루트 폴더 (예: outputs, camera_captures 등)
+    root_dir: "camera_outputs"
+
+    # 기본 서브폴더 이름 (ex: "default") → 실제 저장 경로는 root_dir/subdir
+    subdir: "default"
