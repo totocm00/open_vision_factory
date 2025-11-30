@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # --------------------------
 # Python 기본
 # --------------------------
@@ -97,3 +98,64 @@ assets/modules/private/private_house/video/
 
 # 예외 처리 - README에서 사용하는 ovf.gif는 추적
 !assets/modules/private/private_house/video/ovf.gif
+=======
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Virtual environment
+tester/
+.venv/
+env/
+
+
+# Data / Model Artifacts
+datasets/
+runs/
+results/
+outputs/
+weights/
+checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# images
+*.jpeg
+*.jpg
+*.png
+*.bmp
+*.tiff
+*.gif
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.wmv
+*.flv
+*.m4v
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.npy
+*.json
+*.csv
+
+# venv files
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+*.log
+*.out
+test-3.10/
+>>>>>>> 48bc762 (docs: add maintenance docs and utility .sh scripts to OVF)
